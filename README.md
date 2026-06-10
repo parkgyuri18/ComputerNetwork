@@ -2,12 +2,14 @@
 
 ## How IoT Systems Stay Connected While Minimizing Energy Consumption
 
-> Course: Computer Networks
-> Team: Group 5
-> Topic: Low-Power IoT Communication
-> Student: Gyuri Park
-> Student ID: 2024270637
-> Presentation Video: [Watch Here](PASTE_VIDEO_LINK_HERE)
+| Item | Description |
+|---|---|
+| Course | Computer Networks |
+| Team | Group 5 |
+| Topic | Low-Power IoT Communication |
+| Student | Gyuri Park |
+| Student ID | 2024270637 |
+| Presentation Video | [Watch Here](PASTE_VIDEO_LINK_HERE) |
 
 ---
 
