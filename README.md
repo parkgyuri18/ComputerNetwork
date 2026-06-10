@@ -11,7 +11,7 @@
 
 ---
 
-## TL;DR
+## Executive Summary
 
 Low-power IoT communication is not solved by choosing one lightweight protocol.
 Instead, it should be understood as a layered design strategy that combines communication scheduling, protocol selection, data movement reduction, and hardware-level power optimization.
