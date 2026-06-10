@@ -9,7 +9,7 @@
 | Topic | Low-Power IoT Communication |
 | Student | Gyuri Park |
 | Student ID | 2024270637 |
-| Presentation Video | [Watch Here]([PASTE_VIDEO_LINK_HERE](https://www.youtube.com/watch?v=S0SW61fNEJ8)) |
+| Presentation Video | [Watch Here]([https://www.youtube.com/watch?v=S0SW61fNEJ8]) |
 
 ---
 
